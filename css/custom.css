@@ -1,0 +1,44 @@
+
+fieldset.form input[type="checkbox"] {
+    margin-top: 12px;
+}
+
+.login form label {
+    display: block;
+}
+
+.login label > span {
+    display: inline-block;
+    vertical-align: middle;
+    width: 180px;
+}
+
+.login label input {
+    display: inline-block;
+    vertical-align: middle;
+    width: 205px;
+}
+
+
+#archives a {
+    color: #FFFFFF;
+}
+
+#archive-menu {
+    z-index: 9000;
+    display: none;
+}
+
+.archive-mois {
+    position: absolute;
+    display:none;
+}
+
+ul.archive-mois {
+    margin: -22px 0 0 38px;
+}
+
+.archive-mois li {
+    border: 1px solid #668822;
+}
+

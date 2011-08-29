@@ -1,0 +1,6 @@
+Yvon-O-Sphere
+=============
+
+Un blogue web 3.0 C++ latin-1 avec framework MVC en DOS et injection SQL en l'honneur d'Yvon Latulippe
+
+Ce code est sous license GPL v3

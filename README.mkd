@@ -2,14 +2,24 @@ Yvon-O-Sphere
 =============
 
 Exercises réalisés dans le cadre du cours 'Introduction au PHP' pour la
-technique en informatique au Cégep de Ste-Foy. Ce code est sous license GPL v3
+technique en informatique au Cégep de Ste-Foy. 
+
+Devise du projet
+----------------
+
+Voici un blogue web 3.0 C++ latin-1 avec framework MVC en DOS et injection SQL en l'honneur d'Yvon Latulippe !
+
+Auteurs
+-------
 
 Ces exercises ont été réalisés par :
 
-    * Gregory Eric Sanderson Turcot Temlett MacDonnell Forbes
-    * Frédérik Paradis
+ * Gregory Eric Sanderson Turcot Temlett MacDonnell Forbes
+ * Frédérik Paradis
 
-La devise du projet : 
+License
+-------
 
-Voici un blogue web 3.0 C++ latin-1 avec framework MVC en DOS et injection SQL en l'honneur d'Yvon Latulippe !
+Ce projet est sous license GPLv3. La license est disponible à la page
+suivante : http://www.gnu.org/licenses/gpl-3.0.txt
 
